@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sammier1821
+- 👀 I’m interested in **learning the core of programming**.
+- 🌱 I’m currently learning **POO** with Java language.
+- 🧙‍♂️ I'm a fan of Sanderson's and Asimov's books, basically I like to say that I'm a geek 😎.
