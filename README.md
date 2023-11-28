@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @gians1821
-- 👀 I’m interested in **learning the core of programming**.
-- 🌱 I’m currently learning **POO** with Java language.
-- 🧙‍♂️ I'm a fan of Sanderson's and Asimov's books, basically I like to say that I'm a geek 😎.
+- 👋 Hola, soy @gians1821
+- 🌱 Estoy aprendiendo **Diseño Web** con HTML, CSS y JS.
