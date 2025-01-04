@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gian Franco Samana Ramirez</h1>
 <h3 align="center">A passionate developer from Peru</h3>
 
-<img align="right" width="400" src="https://github.com/user-attachments/assets/fc98b01d-02bf-453b-bcf6-b28e2ef6eab4">
+<img align="right" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952m10oeca59dtgz6ortpyonhapk2q84wyw6fnwui9c&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Trainee Software Developer**
 
